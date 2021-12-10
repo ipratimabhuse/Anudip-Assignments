@@ -1,0 +1,14 @@
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\bin\Debug\net6.0\Absolute diffence.exe
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\bin\Debug\net6.0\Absolute diffence.deps.json
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\bin\Debug\net6.0\Absolute diffence.runtimeconfig.json
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\bin\Debug\net6.0\Absolute diffence.dll
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\bin\Debug\net6.0\ref\Absolute diffence.dll
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\bin\Debug\net6.0\Absolute diffence.pdb
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\Absolute diffence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\Absolute diffence.AssemblyInfoInputs.cache
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\Absolute diffence.AssemblyInfo.cs
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\Absolute diffence.csproj.CoreCompileInputs.cache
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\Absolute diffence.dll
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\ref\Absolute diffence.dll
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\Absolute diffence.pdb
+C:\Pratima Bhuse\Anudip\Anudip Assignments\Absolute diffence\Absolute diffence\obj\Debug\net6.0\Absolute diffence.genruntimeconfig.cache
